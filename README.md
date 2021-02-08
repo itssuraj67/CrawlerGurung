@@ -5,7 +5,7 @@
 2.Introduction: Crawl the website mention in "applicaiton.properites" as "baseUrl", logs title, total number of links found in each page and collections of links in "outputLogger/CrawlerLogger.log" 
   
 3. Run:
-  a.use maven command to run || "App" contains main method
+  use maven command to run || "App" contains main method
 
 4.Contacts:
   Suraj Gurung
