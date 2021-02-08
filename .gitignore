@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/.idea
+/src/main/java/org/example/outputLogger
+/src/test
+/target
