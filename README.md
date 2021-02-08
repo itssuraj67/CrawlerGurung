@@ -11,3 +11,8 @@
   Suraj Gurung
   itssuraj67@gmail.com
   call/text: ‪(405) 470-9969‬
+  
+ 5. Potential:
+    a. I can create restful api in json/xml which can be called from client or machine.
+    b. Can run business logics base of consditions.
+    c. set up triggers and save useful information to database.
