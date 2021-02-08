@@ -1,1 +1,13 @@
 # CrawlerGurung
+
+1.WebCrawler: lanaguage: java, framework: maven, IDE: Intellij, tools: crawler4j, log4j
+
+2.Introduction: Crawl the website mention in "applicaiton.properites" as "baseUrl", logs title, total number of links found in each page and collections of links in "outputLogger/CrawlerLogger.log" 
+  
+3. Run:
+  a.use maven command to run || "App" contains main method
+
+4.Contacts:
+  Suraj Gurung
+  itssuraj67@gmail.com
+  call/text: ‪(405) 470-9969‬
